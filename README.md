@@ -17,7 +17,8 @@ Download files and move to the `data` directory before running the analysis note
 ### Running the jupyter notebooks
 
 There are three analysis notebooks here, corresponding to the three major results sections of the paper:
-    1. Crossdomain feature analyses
-    2. Drawing experiment analyses
-    3. Categorical perception experiment analyses 
+
+1. Crossdomain feature analyses    
+2. Drawing experiment analyses    
+3. Categorical perception experiment analyses 
 
