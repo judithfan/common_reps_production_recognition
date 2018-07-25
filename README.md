@@ -3,9 +3,9 @@ paper + code for "Common object representations for production and recognition"
 
 ## paper
 
-A preprint of this paper is available on bioRxiv: https://www.biorxiv.org/content/early/2017/01/03/097840.
+A preprint of this paper is available on bioRxiv: https://www.biorxiv.org/content/early/2018/07/16/097840.
 
-The published version of this paper will also be added soon.
+The version of this paper published in _Cognitive Science_ will also be added soon.
 
 ## code
 
